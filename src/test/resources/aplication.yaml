@@ -1,0 +1,4 @@
+endpoints:
+  baseUri: https://thetestingworldapi.com/
+  studentDetails: api/studentsDetails
+  specificStudentDetails: api/studentsDetails/{id}
